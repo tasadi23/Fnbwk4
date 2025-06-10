@@ -1,5 +1,4 @@
 Fnbwk4
-FNB App Academy
 # ⚡ Week 4 – Stepping Into JavaScript: Making Apps Come Alive
 
 **Intermediate level** of the FNB App Academy!
